@@ -1,0 +1,12 @@
+[Applet Factory]
+Id=LocalPowerProfilesAppletFactory
+InProcess=false
+Location=/opt/mate-power-profile-switcher/power-profile-switcher.py
+Name=Power Profiles
+Description=Switch between Max Power, Balanced, and Power Saver
+
+[PowerProfilesApplet]
+Name=Power Profiles
+Description=Switch between Max Power, Balanced, and Power Saver
+Icon=power-profile-balanced-symbolic
+Platforms=X11;
